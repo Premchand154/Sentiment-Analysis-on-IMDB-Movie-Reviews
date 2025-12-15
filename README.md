@@ -13,9 +13,9 @@ The goal is to classify movie reviews as **positive** or **negative**.
 # Project Structure
 
 ```
-├── Sentiment_Analysis.ipynb   # Main notebook with all experiments
-├── models/
-│   └── bert_imdb_sentiment/  # Saved fine-tuned BERT model                 
+├── Notebook/
+│   └── Sentiment_Analysis.ipynb   # Main notebook with all experiments
+├── requirement.txt              
 └── README.md                 # Project documentation
 ```
 
